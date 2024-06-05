@@ -12,6 +12,7 @@ public class Lab1 {
 
     public static void main(String[] args) throws IOException {
         System.out.println("This is a fix from branch B1 and C4");
+        System.out.println("This is a fix from branch B2");
         System.out.println("欢迎");
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入文件路径：");

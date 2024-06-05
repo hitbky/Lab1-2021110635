@@ -11,6 +11,7 @@ public class Lab1 {
     private static final ArrayList<ArrayList<Integer>> graph = new ArrayList<>(100);
 
     public static void main(String[] args) throws IOException {
+        System.out.println("This is a fix from branch B2");
         System.out.println("欢迎");
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入文件路径：");
